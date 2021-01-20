@@ -11,17 +11,6 @@ namespace Matematik
             int toplam = sayi1 + sayi2;
             Console.WriteLine("Sonuç: " + toplam);
         }
-        public void Cikar()
-        {
-
-        }
-        public void Bol()
-        {
-
-        }
-        public void Carp()
-        {
-
-        }
+      
     }
 }
